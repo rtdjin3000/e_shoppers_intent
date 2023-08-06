@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+fastapi
+uvicorn
+gunicorn==19.9.0
+python-dotenv
+httptools

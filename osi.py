@@ -18,4 +18,3 @@ class osi(BaseModel):
     TrafficType: int
     VisitorType: object
     Weekend: bool
-    Revenue: bool

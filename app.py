@@ -1,6 +1,6 @@
 # 1. Library imports
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 import numpy as np
 import pickle
 import pandas as pd

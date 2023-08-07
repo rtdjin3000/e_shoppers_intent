@@ -20,4 +20,9 @@ conda create -p venv python==3.7 -y
 Git Commit
 ```
 git add --all
+
+```
+Git Push
+```
+git push -u origin main
 ```
